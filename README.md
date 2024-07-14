@@ -1,3 +1,9 @@
+# User Manager
+
+subscribes to events for each user
+
+connected apps publish events and user data is updated with each event
+
 # Rust10x Web App Blueprint for Production Coding
 
 More info at: https://rust10x.com/web-app
